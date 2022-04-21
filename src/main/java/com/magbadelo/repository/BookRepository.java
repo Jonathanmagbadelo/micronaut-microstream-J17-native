@@ -11,4 +11,5 @@ public interface BookRepository {
     public List<Author> findAllAuthors();
     public void deleteAll();
     public void storeAll();
+    public void loadAll();
 }
