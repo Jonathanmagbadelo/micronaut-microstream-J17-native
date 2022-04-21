@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronautJava17
+netty:
+  default:
+    allocator:
+      max-order: 3
